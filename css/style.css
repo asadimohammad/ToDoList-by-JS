@@ -1,0 +1,7 @@
+.remove-note,
+.remove-note:hover {
+    float: right;
+    cursor: pointer;
+    color: red;
+    font-weight: bold;
+}
